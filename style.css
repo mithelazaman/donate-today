@@ -42,8 +42,71 @@ h1{
 }
 .donation-ammount{
     text-align: center;
+    margin-top: 70px;
+    padding: 100px;
 }
 .others{
     color: gray;
-    border-width: 0em;
+
 }
+.title{
+    text-align: center;
+    margin-top: 70px;
+    padding: 50px;
+    
+    
+}
+.card1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: paleturquoise;
+}
+.food-icon{
+    width: 50px;
+    position: left;
+
+}
+.donate-plan{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: thistle;
+}
+    .card3{
+        width: 300px;
+        height: 300px;
+        border: 1px solid gray;
+        text-align: center;
+        box-shadow: 8px 8px 16px gray;
+        padding: 20px;
+        border-radius: 5px;
+        background-color: lightgoldenrodyellow;
+    }
+    .depend-on-donation{
+        display: flex;
+        margin-bottom: 150px;
+        margin-top: 70px;
+        padding: 50px;
+    
+    }
+    .half-width{
+        width: 50%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 80%;
+
+    }
