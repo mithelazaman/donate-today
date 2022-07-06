@@ -1,0 +1,28 @@
+.body {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.people-need{
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(0,0,0,5);
+    background-size: 100%;
+    padding-top: 80px;
+    padding-bottom:250px;
+    color: white;
+    text-align: center;
+    
+}
