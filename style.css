@@ -136,4 +136,13 @@ h1{
         background-color:lemonchiffon ;
         display: inline-block;
     }
+    footer {
+        text-align: center;
+        padding: 20px;
+        background-color: black;
+        color: white;
+    }
+    .p{
+        color: brown;
+    }
 
