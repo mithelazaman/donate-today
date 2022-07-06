@@ -121,4 +121,19 @@ h1{
         padding: 50px;
         
     }
+    .updates{
+        text-align: center;
+    }
+    #click{
+        background-color:red;
+        color: white;
+    }
+    .box{
+        border: 10px solid lemonchiffon;
+        margin: 40px 40px;
+        padding: 40px 40px;
+        
+        background-color:lemonchiffon ;
+        display: inline-block;
+    }
 
